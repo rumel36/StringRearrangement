@@ -1,0 +1,13 @@
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\bin\Debug\netcoreapp3.1\StringRearrangement.exe
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\bin\Debug\netcoreapp3.1\StringRearrangement.deps.json
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\bin\Debug\netcoreapp3.1\StringRearrangement.runtimeconfig.json
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\bin\Debug\netcoreapp3.1\StringRearrangement.runtimeconfig.dev.json
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\bin\Debug\netcoreapp3.1\StringRearrangement.dll
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\bin\Debug\netcoreapp3.1\StringRearrangement.pdb
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\obj\Debug\netcoreapp3.1\StringRearrangement.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\obj\Debug\netcoreapp3.1\StringRearrangement.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\obj\Debug\netcoreapp3.1\StringRearrangement.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\obj\Debug\netcoreapp3.1\StringRearrangement.AssemblyInfo.cs
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\obj\Debug\netcoreapp3.1\StringRearrangement.dll
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\obj\Debug\netcoreapp3.1\StringRearrangement.pdb
+C:\Users\Omar\source\repos\StringRearrangement\StringRearrangement\obj\Debug\netcoreapp3.1\StringRearrangement.genruntimeconfig.cache
